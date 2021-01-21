@@ -48,6 +48,16 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 
+project-root-directory/
++ nbproject/
+  build-impl.xml
+  + private/
+  + project.properties
+  + project.xml
++ src/
++ test/
++ build.xml
+
 # OS
 .DS_Store
 
